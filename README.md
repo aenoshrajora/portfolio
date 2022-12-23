@@ -8,6 +8,11 @@
 
 <h4 align="center">A portfolio based on windows 10 theme. .</h4>
 
+<p align="center">  
+  <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/srinibasbiswal/Portfolio_OS_Theme/Build/master">
+  <img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&up_message=UP&url=https%3A%2F%2Fsrinibasbiswal.com%2F">
+</p>
+
 <p align="center">
   <a href="#installation">Installation</a> •
   <a href="#customization">Customization</a> •
@@ -16,9 +21,6 @@
   <a href="https://aenoshrajora9.netlify.app/">Live Demo</a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18086651/120920034-63889e00-c6da-11eb-8dfa-1e97a9b0a829.gif" alt="srinibas-pwa-gif" />
-</p>
 
 ## Installation
 
